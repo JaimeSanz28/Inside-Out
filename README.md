@@ -3,8 +3,6 @@
 
 <img src="https://www.revuze.it/wp-content/uploads/2019/07/sentiment-analysis-Featured-1024x576.png"/>
 
-#width="500" height="350" 
-
 
 ## Description
 
